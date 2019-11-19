@@ -19,8 +19,9 @@ To answer my scientific question and test my hypothesis, I aim use a linear regr
 
 [NASA GISS Troposphere Aerosols](https://data.giss.nasa.gov/modelforce/trop.aer/)
 
-    Aerosol data
+Aerosol Data
+
     
 [CMAP](https://www.esrl.noaa.gov/psd/data/gridded/data.cmap.html#detail)
 
-    Precipitation Data
+Precipitation Data
