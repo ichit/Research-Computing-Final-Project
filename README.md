@@ -21,9 +21,11 @@ To answer my scientific question and test my hypothesis, I aim use a linear regr
 ## Data
 
 Aerosol Data
+
 [NASA GISS Troposphere Aerosols](https://data.giss.nasa.gov/modelforce/trop.aer/)
 
 
 Precipitation Data
+
 [CMAP](https://www.esrl.noaa.gov/psd/data/gridded/data.cmap.html#detail)
 
